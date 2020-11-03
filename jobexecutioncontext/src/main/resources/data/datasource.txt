@@ -1,1 +1,6 @@
 http://eforexcel.com/wp/downloads-18-sample-csv-files-data-sets-for-testing-sales/
+
+https://stackoverflow.com/questions/48052524/is-it-a-good-idea-practice-to-store-large-objects-in-job-execution-context
+
+https://stackoverflow.com/questions/2292667/how-can-we-share-data-between-the-different-steps-of-a-job-in-spring-batch
+
